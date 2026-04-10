@@ -32,7 +32,7 @@ Uma pilha é uma estrutura de dados linear que segue o princípio **LIFO** (*Las
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/EstruturaDeDados-PilhaStack-Java.git
+git clone https://github.com/pedrolucasduart/EstruturaDeDados-PilhaStack-Java
 ```
 
 2. Acesse a pasta do projeto:
