@@ -85,4 +85,4 @@ Pilha final:
 
 ## 👤 Autor
 
-Feito por **SEU_NOME** — sinta-se à vontade para entrar em contato!
+Feito por **Pedro Lucas** — sinta-se à vontade para entrar em contato!
